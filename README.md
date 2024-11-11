@@ -25,4 +25,4 @@ The **GitHub Profile Viewer** is a simple web application that allows users to v
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/github-profile-viewer.git
+  [ git clone https://github.com/your-username/github-profile-viewer.git](https://github.com/kennedy193/GithubProfileViewer.git)
